@@ -3,6 +3,9 @@
 >Focus is on [react-navigation StackNavigator](https://reactnavigation.org/docs/en/hello-react-navigation.html#creating-a-stack-navigator) handling click event to move to the next page when the user selects a item from a 
 FlatList Component. We show the [FlatList Component](https://facebook.github.io/react-native/docs/flatlist), the use of the StackNavigator but instead of passing parameters between pages,
 we use the [React Redux](https://github.com/reduxjs/react-redux) to update the state to show the current item on the detail page
+---
+>See the same application implemented with React Context API - [hello-world-v3-stacknavigator-context-api](https://github.com/aaronksaunders/hello-world-v3-stacknavigator-context-api)
+---
 
 ![](https://raw.githubusercontent.com/aaronksaunders/hello-world-v3-stacknavigator-redux/master/readme.images/Screen%20Shot%202018-10-16%20at%208.05.35%20PM.png)
 
